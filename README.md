@@ -27,5 +27,5 @@
 
 [Ispitni 07.09.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/07.09.2020)
 
-[Ispitni 14.07.2020.]()
+[Ispitni 14.07.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/14.07.2020)
 <hr>
