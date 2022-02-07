@@ -25,7 +25,7 @@
 
 <hr>
 
-[Prva samoevaluacija 2021/22 godine]()
+[Prva samoevaluacija 2021/22 godine](https://www.classmarker.com/online-test/start/?quiz=qry61e7428cb21f1)
 
 [Druga samoevaluacija 2021/22 godine](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Samoevaulacije%202021-22/Druga%20samoevaluacija)
 
