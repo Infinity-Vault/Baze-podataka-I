@@ -25,4 +25,5 @@
 
 [Ispitni 01.02.2021.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/01.02.2021)
 
+[Ispitni 07.09.2020.]()
 <hr>
