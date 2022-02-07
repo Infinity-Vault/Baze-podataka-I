@@ -27,9 +27,9 @@
 
 [Prva samoevaluacija 2021/22 godine]()
 
-[Druga samoevaluacija 2021/22 godine]()
+[Druga samoevaluacija 2021/22 godine](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Samoevaulacije%202021-22/Druga%20samoevaluacija)
 
-[Treca samoevaluacija 2021/22 godine]()
+[Treca samoevaluacija 2021/22 godine](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Samoevaulacije%202021-22/Treca%20samoevaluacija)
 
 <hr>
 
