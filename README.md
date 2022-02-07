@@ -20,6 +20,19 @@
 
 <hr>
 
+**Samoevaluacijski kvizovi**
+
+
+<hr>
+
+[Prva samoevaluacija 2021/22 godine]()
+
+[Druga samoevaluacija 2021/22 godine]()
+
+[Treca samoevaluacija 2021/22 godine]()
+
+<hr>
+
 **Ispitni zadaci**
 <hr>
 
