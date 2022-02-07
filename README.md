@@ -23,6 +23,6 @@
 **Ispitni zadaci**
 <hr>
 
-[Ispitni 01.02.2021.]()
+[Ispitni 01.02.2021.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/01.02.2021)
 
 <hr>
