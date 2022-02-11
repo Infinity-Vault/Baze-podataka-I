@@ -38,17 +38,18 @@
 
 [Ispitni 05.07.2019.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2019-07-05)
 
-[Ispitni 01.02.2021.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/01.02.2021)
+[Ispitni 29.01.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2020-01-29)
 
-[Ispitni 07.09.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/07.09.2020)
+[Ispitni 21.02.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2020-02-21)
 
-[Ispitni 14.07.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/14.07.2020)
+[Ispitni 14.07.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2020-07-14)
 
-[Ispitni 06.09.2021.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/06.09.2021)
+[Ispitni 07.09.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2020-09-07)
 
-[Ispitni 21.02.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/21.02.2020)
+[Ispitni 02.02.2021.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2021-02-02)
 
-[Ispitni 29.01.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/29.01.2020)
+[Ispitni 06.09.2021.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2021-09-06)
 
-[Ispitni 02.02.2022.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/02.02.2022)
+[Ispitni 02.02.2022.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2022-02-02)
+
 <hr>
