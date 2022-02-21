@@ -44,6 +44,8 @@
 
 [Ispitni 05.07.2019.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2019-07-05)
 
+[Ispitni 22.02.2021.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2021-02-22)
+
 [Ispitni 29.01.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2020-01-29)
 
 [Ispitni 21.02.2020.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2020-02-21)
