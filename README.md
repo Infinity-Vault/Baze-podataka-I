@@ -58,6 +58,8 @@
 
 [Ispitni 06.09.2021.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2021-09-06)
 
-[Ispitni 02.02.2022.](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2022-02-02)
+[Ispitni 02.02.2022. (Elda Sultić)](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2022-02-02) -  [Infitniy rješenje](https://github.com/Infinity-Vault/Baze-podataka-I/tree/main/Ispitni%20zadaci/2022-02-02/Rjesenje%20(Infinity%20Vault))
+
+
 
 <hr>
