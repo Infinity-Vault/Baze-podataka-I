@@ -19,6 +19,8 @@
 
 [_Normalizacija i normalne forme_](https://github.com/Infinity-Vault/Baze-podataka-I/blob/main/Normalizacija%20i%20normalne%20forme.md)
 
+[_Prevođenje ER modela u relacioni_](https://github.com/Infinity-Vault/Baze-podataka-I/blob/main/Prevo%C4%91enje%20ER%20modela%20u%20relacioni%20model.md)
+
 <hr>
 
 **Samoevaluacijski kvizovi**
