@@ -25,7 +25,6 @@
 
 **Samoevaluacijski kvizovi**
 
-
 <hr>
 
 [Prva samoevaluacija 2021/22 godine](https://www.classmarker.com/online-test/start/?quiz=qry61e7428cb21f1)
